@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class LabTest_Jaswinder_Singh_2195418 {
+public class FactoryTest {
 
 	public static void main(String[] args) {
 
