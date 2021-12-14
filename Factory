@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class FactoryTest {
+public class ShapeFactoryV1 {
 
 	public static void main(String[] args) {
 
